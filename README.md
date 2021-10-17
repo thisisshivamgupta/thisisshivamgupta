@@ -16,4 +16,5 @@ data class thisisshivamgupta(
 [![Linkedin](https://img.shields.io/badge/Shivam-LinkedIn-brightgreen)](https://www.linkedin.com/in/thisisshivamgupta)
 [![GitHub](https://img.shields.io/github/followers/thisisshivamgupta?style=social)](https://github.com/thisisshivamgupta)
 [![Portfolio](https://img.shields.io/badge/Shivam-Portfolio%20-blue)](https://thisisshivamgupta.github.io)
+![Visit](https://komarev.com/ghpvc/?username=thisisshivamgupta&color=blueviolet)
 
