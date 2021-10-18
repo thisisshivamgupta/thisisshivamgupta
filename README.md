@@ -7,7 +7,7 @@ data class thisisshivamgupta(
 ```
 <br/>
 <div align="center">
-   <img src="https://github.com/thisisshivamgupta/thisisshivamgupta/blob/output/github-contribution-grid-snake.svg" height="70%" width="70%">
+   <img src="https://github.com/thisisshivamgupta/thisisshivamgupta/blob/output/github-contribution-grid-snake.svg" height="90%" width="90%">
   </a>
 </div>
 <p align="center">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
