@@ -1,9 +1,4 @@
-```kt Intro Tab
-data class thisisshivamgupta(
- val education: University? = FET-JU,
- val code: List<Languages> = [C, C++,Java],
- val status: List<Tasks>? = [Discord Bot Development, Android Development],
-)
+```intro 
 ```
 <br/>
 <div align="center">
