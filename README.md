@@ -1,6 +1,6 @@
 ```intro 
 Hello World!
-Welcome to Shivam's Almanac!
+Welcome to Shivam's World!
 ```
 <br/>
 <div align="center">
