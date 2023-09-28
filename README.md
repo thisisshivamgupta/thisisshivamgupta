@@ -7,8 +7,7 @@ Welcome to Shivam's World!
    <img src="https://github.com/thisisshivamgupta/thisisshivamgupta/blob/output/github-contribution-grid-snake.svg" height="75%" width="75%">
   </a>
 </div>
-<p align="center">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ </p>
+<p align="center"> </p>
 
 [![Linkedin](https://img.shields.io/badge/Shivam-LinkedIn-brightgreen)](https://www.linkedin.com/in/thisisshivamgupta)
 [![GitHub](https://img.shields.io/github/followers/thisisshivamgupta?style=social)](https://github.com/thisisshivamgupta)
